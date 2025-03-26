@@ -6,5 +6,4 @@ Run `git clone https://github.com/usr-mary/WarmPink.git`
 
 Copy or move the folder to `~/.themes/` or `/usr/share/themes/` (create it if necessary).
 
-# Icons used:
-https://github.com/SueDonham/Colloid-pastel-icons
+Used icons: https://github.com/SueDonham/Colloid-pastel-icons
