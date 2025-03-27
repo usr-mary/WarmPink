@@ -10,13 +10,13 @@
 
 .sound-player StButton, .keyboard-key, .notification-button, .notification-icon-button, .modal-dialog-button {
   background-gradient-direction: vertical;
-  background-gradient-start: #232323;
-  background-gradient-end: #232323; }
+  background-gradient-start: #3e3434;
+  background-gradient-end: #3e3434; }
 
 .sound-player StButton:hover, .keyboard-key:hover, .notification-button:hover, .notification-icon-button:hover, .modal-dialog-button:hover {
   background-gradient-direction: vertical;
-  background-gradient-start: #252525;
-  background-gradient-end: #252525; }
+  background-gradient-start: #413737;
+  background-gradient-end: #413737; }
 
 .panel-top .window-list-item-box, .panel-bottom {
   background-gradient-direction: vertical;
@@ -101,7 +101,7 @@
 .slider, .popup-slider-menu-item, .sound-player .slider {
   height: 1.2em;
   min-width: 15em;
-  color: #232323;
+  color: #3e3434;
   -slider-height: 2px;
   -slider-background-color: rgba(30, 30, 30, 0.92);
   -slider-border-color: rgba(138, 138, 138, 0.22);
